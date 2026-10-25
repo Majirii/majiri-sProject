@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    background-color: #f5f5f5;
+}
+
+.intro {
+    text-align: center;
+    min-height: 120px;
+    background-color: #212121;
+    padding: 20px;
+}
+
+.intro h1 {
+    color: #fff;
+}
+
+.intro span {
+    color: #36aeb8;
+}
+
+.intro p {
+    color: #fff;
+    padding: 10px;
+}
+
+.about {
+    max-width: 1320px;
+    min-height: 200px;  
+    border-radius: 10px;
+    margin: 10px;
+    overflow-x: hidden;
+    background-color: #fff;
+    border: 1px solid #ffffff;
+}
+
+.about h2 {
+    color: #36aeb8;
+    padding: 20px;
+}
+
+.about p {
+    padding: 20px;
+    color: #333333;
+}
+
+.projects {
+    max-width: 1320px;
+    min-height: 200px; 
+    border-radius: 10px;
+    margin: 10px;
+    overflow-x: hidden;
+    background-color: #fff;
+    border: 1px solid #ffffff;
+}
+
+.projects h2 {
+    color: #36aeb8;
+    padding: 20px;
+}
+
+.projects span {
+    font-weight: bold;
+}
+
+.projects a {
+    color: #36aeb8;
+    text-decoration: none;
+}
+
+.projects p {
+    padding: 20px;
+}
+
+
+.contacts {
+    max-width: 1320px;
+    min-height: 200px;  
+    border-radius: 10px;
+    margin: 10px;
+    overflow-x: hidden;
+    background-color: #fff;
+    border: 1px solid #ffffff;
+} 
+
+.contacts h2 {
+    color: #36aeb8;
+    padding: 20px;
+}
+
+.contacts p {
+    padding: 20px;
+}
+
